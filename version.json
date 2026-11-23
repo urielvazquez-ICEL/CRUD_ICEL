@@ -1,0 +1,10 @@
+{
+  "version": "1.3.0",
+  "url_exe": "https://github.com/urielvazquez-ICEL/CRUD_ICEL/releases/download/v1.3.0/SistemaICEL.exe",
+  "notas": [
+    "• Sistema de 16 permisos granulares por perfil.",
+    "• Personalizador de temas y colores guardados.",
+    "• Auto-actualizador integrado para ejecutables (.exe).",
+    "• Vista previa de credenciales y envío de correo SMTP."
+  ]
+}
